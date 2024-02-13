@@ -28,10 +28,10 @@
       <td>2</td>
       <td><b>Virtualization with Docker-Compose.</b></td>
       <td>
-        a) Build the app in jar on your local computer using Gradle.<br> 
-        b) Put your app and required components, such as DB, into Docker containers. <br>
-        c) Push the container to Docker hub.<br>
-        d) Fetch and run your application with its components on AWS cloud.
+        <b>a)</b> Build the app in jar on your local computer using Gradle.<br> 
+        <b>b)</b> Put your app and required components, such as DB, into Docker containers. <br>
+        <b>c)</b> Push the container to Docker hub.<br>
+        <b>d)</b> Fetch and run your application with its components on AWS cloud.
       </td>
       <td>To be announced</td>
       <td></td>
@@ -40,12 +40,12 @@
       <td>3</td>
       <td><b>Declarative publish pipeline using Jenkins.</b></td>
       <td>
-        a) Build the app in jar on your local computer using Gradle.<br>
-        b) Create a declerative pipeline on Jenkins server that do the following tasks: <br>
+        <b>a)</b> Build the app in jar on your local computer using Gradle.<br>
+        <b>b)</b> Create a declerative pipeline on Jenkins server that do the following tasks: <br>
           - Build the jar file on GitHub. <br>
           - Push the jar file to Dockerhub <br>
-        c) Pull the image from DockerHub to AWS cloud. <br>
-        d) Show that your application runs as expected.
+        <b>c)</b> Pull the image from DockerHub to AWS cloud. <br>
+        <b>d)</b> Show that your application runs as expected.
       </td>
       <td>To be announced</td>
       <td></td>
