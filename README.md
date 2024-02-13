@@ -14,19 +14,19 @@
   <body>
     <tr>
       <td>1</td>
-      <td>Publishing a web app on a cloud.</td>
+      <td><b>Publishing a web app on a cloud.</b></td>
       <td> 
         <b>a)</b> Show that you can build a Java app in jar format on your local computer using Maven. <br> 
-        b) Upload that jar file using SFTP to AWS cloud (on EC2 instance). <br> 
-        c) Set up web server (Nginx, and DB server (MySQL) on the cloud. <br> 
-        d) Show that local client (browser on your computer) can access the app GUIs and the app runs on AWS as expected. 
+        <b>b)</b> Upload that jar file using SFTP to AWS cloud (on EC2 instance). <br> 
+        <b>c)</b> Set up web server (Nginx, and DB server (MySQL) on the cloud. <br> 
+        <b>d)</b> Show that local client (browser on your computer) can access the app GUIs and the app runs on AWS as expected. 
       </td>
       <td>To be announced</td>
       <td></td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Virtualization with Docker-Compose.</td>
+      <td><b>Virtualization with Docker-Compose.</b></td>
       <td>
         a) Build the app in jar on your local computer using Gradle.<br> 
         b) Put your app and required components, such as DB, into Docker containers. <br>
@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td>3</td>
-      <td>Declarative publish pipeline using Jenkins.</td>
+      <td><b>Declarative publish pipeline using Jenkins.</b></td>
       <td>
         a) Build the app in jar on your local computer using Gradle.<br>
         b) Create a declerative pipeline on Jenkins server that do the following tasks: <br>
