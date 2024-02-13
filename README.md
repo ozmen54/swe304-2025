@@ -16,7 +16,7 @@
       <td>1</td>
       <td>Publishing a web app on a cloud.</td>
       <td> 
-        **a)** Show that you can build a Java app in jar format on your local computer using Maven. <br> 
+        <b>a)</b> Show that you can build a Java app in jar format on your local computer using Maven. <br> 
         b) Upload that jar file using SFTP to AWS cloud (on EC2 instance). <br> 
         c) Set up web server (Nginx, and DB server (MySQL) on the cloud. <br> 
         d) Show that local client (browser on your computer) can access the app GUIs and the app runs on AWS as expected. 
