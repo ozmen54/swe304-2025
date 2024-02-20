@@ -34,7 +34,7 @@
         <b>d)</b> Fetch and run your application with its components on AWS cloud.
       </td>
       <td>To be announced</td>
-      <td></td>
+      <td>[Project 1](./pro1.pdf)</td>
     </tr>
     <tr>
       <td>3</td>
