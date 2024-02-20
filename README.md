@@ -22,7 +22,7 @@
         <b>d)</b> Show that local client (browser on your computer) can access the app GUIs and the app runs on AWS as expected. 
       </td>
       <td>7 March 2024</td>
-      <td><a href="pro1.pdf">Project 1</a></td>
+      <td><a href="pro1.pdf">Project1</a></td>
     </tr>
     <tr>
       <td>2</td>
