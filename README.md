@@ -33,7 +33,7 @@
         <b>c)</b> Push the container to Docker hub.<br>
         <b>d)</b> Fetch and run your application with its components on AWS cloud.
       </td>
-      <td>18 April 2024 <br>(After aid)</td>
+      <td>18 April 2024 <br>(After the holiday)</td>
       <td></td>
     </tr>
     <tr>
