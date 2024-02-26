@@ -33,7 +33,7 @@
         <b>c)</b> Push the container to Docker hub.<br>
         <b>d)</b> Fetch and run your application with its components on AWS cloud.
       </td>
-      <td>18 April 2024</td>
+      <td>18 April 2024 <br>(After aid)</td>
       <td></td>
     </tr>
     <tr>
@@ -47,7 +47,7 @@
         <b>c)</b> Pull the image from DockerHub to AWS cloud. <br>
         <b>d)</b> Show that your application runs as expected.
       </td>
-      <td>23 May 2024</td>
+      <td>23 May 2024<br>(Last week)</td>
       <td></td>
     </tr>
   </body>
