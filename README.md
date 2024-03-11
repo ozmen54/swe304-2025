@@ -31,7 +31,7 @@
         <b>a)</b> Build the app. in jar on your local computer using Gradle.<br> 
         <b>b)</b> Put your app. into Docker container and push it to Docker Hub.<br> 
         <b>c)</b> Do not push the DB server image. <br>
-        <b>d)</b> Pull the developed app. image and available latest PostgreSQL image on Docker Hub.<br>
+        <b>d)</b> Pull the developed app. image and available latest PostgreSQL image from Docker Hub.<br>
         <b>e)</b> Integrate S3 (or blob) storage to your application.<br>
         <b>f)</b> Run your app. with all components. <br>
         <b>g)</b> Start Nginx web server and show that your app. is accessible from public IP and port 80.
