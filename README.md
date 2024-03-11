@@ -29,7 +29,7 @@
       <td><b>Virtualization with Docker-Compose.</b></td>
       <td>
         <b>a)</b> Build the app. in jar on your local computer using Gradle.<br> 
-        <b>b)</b> Put your app. into Docker container and push it to Docker Hub. Do not push DB server, use ready PostgreSQL image.<br>
+        <b>b)</b> Put your app. into Docker container and push it to Docker Hub. Do not push DB server, use readily available latest PostgreSQL image.<br>
         <b>c)</b> Pull the required container images from Docker Hub.<br>
         <b>d)</b> Integrate S3 (or blob) storage to your application.<br>
         <b>e)</b> Run your application with all components including Nginx web server. <br>
