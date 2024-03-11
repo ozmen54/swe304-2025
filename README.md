@@ -33,7 +33,7 @@
         <b>c)</b> Do not push the DB server image. <br>
         <b>d)</b> Pull the developed app. image and available latest PostgreSQL image on Docker Hub.<br>
         <b>e)</b> Integrate S3 (or blob) storage to your application.<br>
-        <b>r)</b> Run your app. with all components. <br>
+        <b>f)</b> Run your app. with all components. <br>
         <b>g)</b> Start Nginx web server and show that your app. is accessible from public IP and port 80.
       </td>
       <td>18 April 2024 <br>(After the Ramadan Eid)</td>
