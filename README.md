@@ -28,13 +28,15 @@
       <td>2</td>
       <td><b>Virtualization with Docker-Compose.</b></td>
       <td>
-        <b>a)</b> Build the app in jar on your local computer using Gradle.<br> 
-        <b>b)</b> Put your app and required components, such as DB, into Docker containers. <br>
-        <b>c)</b> Push the container to Docker hub.<br>
-        <b>d)</b> Fetch and run your application with its components on AWS cloud.
+        <b>a)</b> Build the app. in jar on your local computer using Gradle.<br> 
+        <b>b)</b> Put your app. into Docker container and push it to Docker Hub. Do not push DB server, use ready PostgreSQL image.<br>
+        <b>c)</b> Pull the required container images from Docker Hub.<br>
+        <b>d)</b> Integrate S3 (or blob) storage to your application.<br>
+        <b>e)</b> Run your application with all components including Nginx web server. <br>
+        <b>f)</b> Show that it is accessible with public IP and port 80.
       </td>
-      <td>18 April 2024 <br>(After the holiday)</td>
-      <td></td>
+      <td>18 April 2024 <br>(After the Ramadan Eid)</td>
+      <td><a href="pro2.pdf">Project2</a></td>
     </tr>
     <tr>
       <td>3</td>
