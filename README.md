@@ -42,14 +42,16 @@
     </tr>
     <tr>
       <td>3</td>
-      <td><b>Declarative publish pipeline using Jenkins.</b></td>
+      <td><b>Jenkins declarative pipeline for publishing an application.</b></td>
       <td>
-        <b>a)</b> Build the app in jar on your local computer using Gradle.<br>
+        <b>a)</b> Build the web app in jar on your local computer using Gradle.<br>
         <b>b)</b> Create a declerative pipeline on Jenkins server that do the following tasks: <br>
           - Build the jar file on GitHub. <br>
-          - Push the jar file to Dockerhub <br>
-        <b>c)</b> Pull the image from DockerHub to AWS cloud. <br>
-        <b>d)</b> Show that your application runs as expected.
+          - Build a containerized image on GitHub. <br>
+          - Push the image file to the DockerHub <br>
+        <b>c)</b> Pull the images (webapp and DB) from DockerHub to AWS (or Azure) cloud. <br>
+        <b>d)</b> Run your application on Kubernetes cluster.
+        <b>e)</b> Show that your application runs as expected.
       </td>
       <td>23 May 2024<br>(Last week)</td>
       <td></td>
