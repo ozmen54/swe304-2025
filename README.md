@@ -63,8 +63,8 @@
         <b>a)</b> Build the web app in jar on your local computer using Gradle.<br>
         <b>b)</b> To be announced. <br>      
         <b>c)</b> To be announced. <br>
-        <b>d)</b> Run your application on Kubernetes cluster.
-        <b>e)</b> Show that your application runs as expected.
+        <b>d)</b> Run your application on Kubernetes cluster.<br>
+        <b>e)</b> Show that your application runs as expected.<br>
       </td>
       <td>22 May 2025<br></td>
       <td><a href="pro4.pdf">Project4</a></td>
