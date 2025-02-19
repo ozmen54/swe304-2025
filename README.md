@@ -22,7 +22,7 @@
         <b>c)</b> Set up web server (Nginx, and DB server (MySQL) on the cloud. <br> 
         <b>d)</b> Show that local client (browser on your computer) can access the app GUIs and the app runs on AWS as expected. 
       </td>
-      <td>7 March 2024</td>
+      <td>9 March 2025</td>
       <td><a href="pro1.pdf">Project1</a></td>
     </tr>
     <tr>
@@ -37,7 +37,7 @@
         <b>f)</b> Run your app. with all components. <br>
         <b>g)</b> Start Nginx web server and show that your app. is accessible from given public IP and port 80.
       </td>
-      <td>18 April 2024 <br>(After the Ramadan Eid)</td>
+      <td>20 April 2025<br></td>
       <td><a href="pro2.pdf">Project2</a></td>
     </tr>
     <tr>
@@ -50,11 +50,24 @@
           - Build a containerized image on GitHub. <br>
           - Push the image file to the DockerHub <br>
         <b>c)</b> Pull the images (webapp and DB) from DockerHub to AWS (or Azure) cloud. <br>
+        <b>d)</b> Run your application on cloud instances.
+        <b>e)</b> Show that your application runs as expected.
+      </td>
+      <td>1 May 2025<br></td>
+      <td><a href="pro3.pdf">Project3</a></td>
+    </tr>
+     <tr>
+      <td>4</td>
+      <td><b>Publishin on Kubernetes cluster.</b></td>
+      <td>
+        <b>a)</b> Build the web app in jar on your local computer using Gradle.<br>
+        <b>b)</b> To be announced. <br>      
+        <b>c)</b> To be announced. <br>
         <b>d)</b> Run your application on Kubernetes cluster.
         <b>e)</b> Show that your application runs as expected.
       </td>
-      <td>23 May 2024<br>(Last week)</td>
-      <td><a href="pro3.pdf">Project3</a></td>
+      <td>22 May 2025<br></td>
+      <td><a href="pro4.pdf">Project4</a></td>
     </tr>
   </body>
 </table>
