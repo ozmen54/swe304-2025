@@ -50,8 +50,8 @@
           - Build a containerized image on GitHub. <br>
           - Push the image file to the DockerHub <br>
         <b>c)</b> Pull the images (webapp and DB) from DockerHub to AWS (or Azure) cloud. <br>
-        <b>d)</b> Run your application on cloud instances.
-        <b>e)</b> Show that your application runs as expected.
+        <b>d)</b> Run your application on cloud instances.<br>
+        <b>e)</b> Show that your application runs as expected.<br>
       </td>
       <td>1 May 2025<br></td>
       <td><a href="pro3.pdf">Project3</a></td>
