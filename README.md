@@ -53,12 +53,12 @@
         <b>d)</b> Run your application on cloud instances.<br>
         <b>e)</b> Show that your application runs as expected.<br>
       </td>
-      <td>1 May 2025<br></td>
+      <td>8 May 2025<br></td>
       <td><a href="pro3.pdf">Project3</a></td>
     </tr>
      <tr>
       <td>4</td>
-      <td><b>Publishin on Kubernetes cluster.</b></td>
+      <td><b>Publishing on Kubernetes cluster.</b></td>
       <td>
         <b>a)</b> Build the web app in jar on your local computer using Gradle.<br>
         <b>b)</b> To be announced. <br>      
