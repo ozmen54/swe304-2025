@@ -37,7 +37,7 @@
         <b>f)</b> Run your app. with all components. <br>
         <b>g)</b> Start Nginx web server and show that your app. is accessible from given public IP and port 80.
       </td>
-      <td>27 April 2025<br></td>
+      <td>27 March 2025<br></td>
       <td><a href="pro2.pdf">Project2</a></td>
     </tr>
     <tr>
