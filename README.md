@@ -33,7 +33,7 @@
         <b>b)</b> Put your app into Docker container and push it to Docker Hub.<br> 
         <b>c)</b> Create EC2 instance on AWS or VM on Azure.<br>
         <b>d)</b> Pull the uploded app image and available latest DB (Postgres or MySql) image from Docker Hub.<br>
-        <b>e)</b> Install Nginx as proxy web server.<br-->
+        <b>e)</b> Install Nginx as proxy web server.<br>
         <b>f)</b> Run your app with all components. <br>
         <b>g)</b> Start Nginx web server and show that your app is accessible from given public IP and port 80.
       </td>
