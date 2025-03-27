@@ -33,9 +33,9 @@
         <b>b)</b> Put your app. into Docker container and push it to Docker Hub. (Do not push the DB server image)<br> 
         <b>c)</b> Create EC2 instance on AWS or VM on Azure.<br>
         <b>d)</b> Pull the uploded app. image and available latest PostgreSQL image from Docker Hub.<br>
-        <b>e)</b> Integrate S3 (or blob) storage to your application.<br>
-        <b>f)</b> Run your app. with all components. <br>
-        <b>g)</b> Start Nginx web server and show that your app. is accessible from given public IP and port 80.
+        <!--b>e)</b> Integrate S3 (or blob) storage to your application.<br-->
+        <b>e)</b> Run your app. with all components. <br>
+        <b>f)</b> Start Nginx web server and show that your app. is accessible from given public IP and port 80.
       </td>
       <td>10 April 2025<br></td>
       <td><a href="pro2.pdf">Project2</a></td>
