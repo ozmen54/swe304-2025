@@ -15,7 +15,7 @@
   <body>
     <tr>
       <td>1</td>
-      <td><b>Publishing a web app on a cloud.</b></td>
+      <td><b>Publishing a web app on a cloud using FTP.</b></td>
       <td> 
         <b>a)</b> Show that you can build a Java app in jar format on your local computer using Maven. <br> 
         <b>b)</b> Upload that jar file using SFTP to Azure or AWS cloud (on Virtual Machine or EC2 instance). <br> 
@@ -27,7 +27,7 @@
     </tr>
     <tr>
       <td>2</td>
-      <td><b>Virtualization with Docker-Compose.</b></td>
+      <td><b>Deployment with Docker-Compose.</b></td>
       <td>
         <b>a)</b> Build the app. in jar on your local computer using Gradle or Maven.<br> 
         <b>b)</b> Put your app into Docker container and push it to Docker Hub.<br> 
