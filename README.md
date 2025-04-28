@@ -45,7 +45,7 @@
       <td><b>Github workflow actions CI/CD pipeline.</b></td>
       <td>
         <b>a)</b> Have a web app with Dockerfile in your local computer.<br>
-        <b>b)</b> Create a Github workflow-action pipeline on Github that do the following tasks with *push* or *pull request* events: <br>
+        <b>b)</b> Create a Github workflow-action pipeline on Github that do the following tasks with <i>push</i> or <i>pull request</i> events: <br>
           - Build the jar file on GitHub. <br>
           - Build a containerized image on GitHub. <br>
           - Login to Dockerhub and cloud automatically.<br>
