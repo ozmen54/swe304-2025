@@ -42,16 +42,14 @@
     </tr>
     <tr>
       <td>3</td>
-      <td><b>Jenkins declarative pipeline for publishing an application.</b></td>
+      <td><b>Github workflow actions CI/CD pipeline.</b></td>
       <td>
-        <b>a)</b> Build the web app in jar on your local computer using Gradle.<br>
-        <b>b)</b> Create a declerative pipeline on Jenkins server that do the following tasks: <br>
+        <b>a)</b> Have a web app with Dockerfile in your local computer.<br>
+        <b>b)</b> Create a Github workflow-action pipeline on Github that do the following tasks with push or <e>pull request</e> events: <br>
           - Build the jar file on GitHub. <br>
           - Build a containerized image on GitHub. <br>
-          - Push the image file to the DockerHub <br>
-        <b>c)</b> Pull the images (webapp and DB) from DockerHub to AWS (or Azure) cloud. <br>
-        <b>d)</b> Run your application on cloud instances.<br>
-        <b>e)</b> Show that your application runs as expected.<br>
+          - Push the image file to the DockerHub and JAR file to the cloud.<br>
+        <b>e)</b> Show that your CI/CD pipeline works as expected.<br>
       </td>
       <td>8 May 2025<br></td>
       <td><a href="pro3.pdf">Project3</a></td>
