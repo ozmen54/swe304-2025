@@ -59,10 +59,10 @@
       <td>4</td>
       <td><b>Publishing on Kubernetes cluster.</b></td>
       <td>
-        <b>a)</b> Build the web app in jar on your local computer using Gradle.<br>
-        <b>b)</b> To be announced. <br>      
-        <b>c)</b> To be announced. <br>
-        <b>d)</b> Run your application on Kubernetes cluster.<br>
+        <b>a)</b> Install Jenkins on your local computer.<br>
+        <b>b)</b> Install Minikube K8s on your local computer. <br>      
+        <b>c)</b> Create a CI-CD pipeline as described in homework documentation. <br>
+        <b>d)</b> Run your application on local Kubernetes cluster.<br>
         <b>e)</b> Show that your application runs as expected.<br>
       </td>
       <td>22 May 2025<br></td>
